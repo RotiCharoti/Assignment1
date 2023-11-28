@@ -25,15 +25,22 @@
 .maintxt {
     position: absolute;
     top: 8px;
-    right: 16px;
-    font-size:164px;
+    right: 20px;
     color:#EBB7B6;
+    font-family: "Lora";
+    font-size: 70px;
+    text-shadow: #7B3433 7px 4px ;
   }
 
 .subtxt {
     position: absolute;
     top: 8px;
-    right: 16px;
-    font-size:35px;
+    right: 20px;
+    font-size:25px;
     color:white;
+    text-align:left;
+    width: 620px;
+    word-break: break-word;
+    white-space: normal;
   }
+
