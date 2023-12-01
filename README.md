@@ -9,11 +9,11 @@ This short biography should be able to provide sufficient information for reader
 
  # Features 
  Feature 1: slideshow 
- 1. Arrow buttons on the slideshows allows users to view the pictures indivdually. When clicking on the right arrow button, it brings users to the next picture. When clicking on the left arrow button, it brings users back to the previous picture.
- 2. Mini grey buttons below the picture also does the same function as arrow button, but if users wish to sroll back 2 pictures before, users can click on the grey button that locates the picture immediately without having to click the arrow button twice
+ 1. Arrow buttons on the slideshows allow users to view the pictures individually. When clicking on the right arrow button, it brings users to the next picture. When clicking on the left arrow button, it brings users back to the previous picture.
+ 2. Mini gray buttons below the picture also do the same function as the arrow button, but if users wish to scroll back two pictures, they can click on the gray button that locates the picture immediately without having to click the arrow button twice.
 
  Feature 2: Quiz 
- 1. Contains 8 questions to the quiz, correct answers amount to 1 point. At the end of the quiz, total score will be displayed to users with a customsised message based on the total score.
+ 1. The quiz contains 8 questions; the correct answers amount to 1 point. At the end of the quiz, the total score will be displayed to users with a customized message based on the total score.
  2. Correct answers of the quiz will light up green, and incorrect answer will light up red.
  
 
