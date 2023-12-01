@@ -2,6 +2,7 @@
 <html>
     <link rel="stylesheet" href="style.css">
     <link rel="stylesheet" href="https://fonts.google.com/specimen/Lora">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <body style= "background-color: #7B3433">
     
         <div class="container1">
@@ -9,36 +10,75 @@
             <p class="nav"><b><a href="index.html">Overview</a> <a href= "career.html">Career</a> <a href="life.html">Life</a> <a href="facts.html">Facts</a> <u>Quiz</u></b></p>
         </div>
 
-        <hr>
-
-        <div class="container2">
-            <img src="Main.jpeg" alt="Marilyn Monroe Image" height="1000" width="1500">
-            <div class="Quiz-btn"><button>Start Quiz</button></div>
-        </div>
-
-        <!--Info Box-->
-        <div class="info-box">
-            <div class="info-title">
-                <span><i>There is a total of 10 question. Each question is worth 1 point, incorrect answer will not reward any point.</i>
-                </span>
-        </div>
-
-        <div class="info-list">
-            <div class="info">Rules of the quiz:</div>
-            <div class="info">1. You are given ONLY 15 seconds to answer the question            </div>
-            <div class="info">2. You cannot change your answer once you select            </div>
-            <div class="info">3. You cannot select any option once time is up            </div>
-            <div class="info">4. You cannot exit the quiz once you start            </div>
-        </div>
-
-        <div class="buttons">
-            <button class="quit">EXIT</button>
-            <button class="restart">CONTINUE</button>
-        </div>
-
-        <!--Quiz Box-->
-
+        <hr>      
         
+        <!-- start Quiz button -->
+        <div class="start_btn"><button>BEGIN QUIZ</button></div>
 
+        <!-- Info Box -->
+        <div class="info_box">
+            <div class="info-title"><span>There is a total of 10 question. Each question is worth 1 point, incorrect answer will not reward any point. </span></div>
+            <div class="info-list">
+                <div class="info"><i>Rules of the quiz:</i></div>
+                <div class="info">1. You are given ONLY 15 seconds to answer the question </div>
+                <div class="info">2. You cannot change your answer once you select</div>
+                <div class="info">3. You cannot select any option once time is up</div>
+                <div class="info">4. You cannot exit the quiz once you start</div>
+            </div>
+            <div class="buttons">
+                <button class="quit">EXIT</button>
+                <button class="restart">CONTINUE</button>
+            </div>
+        </div>
+
+        <!-- Quiz Box -->
+        <div class="quiz_box">
+            <header>
+                <div class="title">How well do you know Marilyn Monroe?</div>
+                <div class="timer">
+                    <div class="time_left_txt">TIME LEFT</div>
+                    <div class="timer_sec">15</div>
+                </div>
+                <div class="time_line"></div>
+            </header>
+            <section>
+                <div class="que_text">
+                </div>
+
+                <div class="option_list">
+
+                </div>
+            </section>
+
+            <!-- footer of Quiz Box -->
+            <footer>
+                <div class="total_que">
+                </div>
+                <button class="next_btn">NEXT</button>
+            </footer>
+        </div>
+
+        <!-- Result Box -->
+        <div class="result_box">
+            <div class="icon">
+                <i class="fas fa-crown"></i>
+            </div>
+            <div class="complete_text">You've completed the Quiz!</div>
+            <div class="score_text">
+                <!-- Result from JavaScript -->
+            </div>
+            <div class="buttons">
+                <button class="restart">REPLAY QUIZ</button>
+                <button class="quit">QUIT QUIZ</button>
+            </div>
+        </div>
+
+        <!-- Questions and Options -->
+        <script src="quiz-options.js"></script>
+
+        <!-- Quiz Codes -->
+        <script src="quiz.js"></script>
+
+    
     </body>
 </html>
