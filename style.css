@@ -1,20 +1,10 @@
+/* style for nav + logo */
 .container1 {
-    display: flex;
-    align-items: center;
-  }
-  
-  img {
-    margin-right: 10px;
-  }
-
-.nav{
-    font-size:35px;
-    font-family: "Lora";
-    word-spacing: 150px;
-    padding-left: 90px;
-    color:white;
+  display: flex;
+  align-items: center;
 }
 
+/* to contain words in image */
 .container2{
     position: relative;
     text-align: center;
@@ -22,6 +12,20 @@
     color:white;
 }
 
+/* style for nav categories: overview, career, life, facts,quiz */
+.nav{
+  font-size:35px;
+  font-family: "Lora";
+  word-spacing: 150px;
+  padding-left: 90px;
+  color:white;
+}
+  
+img {
+  margin-right: 10px;
+}
+
+/* text in container 2 */
 .maintxt {
     position: absolute;
     top: 8px;
@@ -33,6 +37,7 @@
     font-weight:500;
 }
 
+/* sub text for container 2 */
 .subtxt {
     position: absolute;
     top: 8px;
@@ -45,11 +50,13 @@
     white-space: normal;
 }
 
-  a {
-    text-decoration: none; 
-    color: white;
+/* style of nav options */
+a {
+  text-decoration: none; 
+  color: white;
 }
 
+/* style of social link: instagram */
 .box {
     align-items: center;
     background-color: black;
@@ -76,6 +83,7 @@
 
   /* end of index.html */
 
+  /* style of header of career & life page */
 .f-title{
     font-size: 50px;
     font-family: "Lora";
@@ -83,6 +91,15 @@
     text-align: center;
 }
 
+/* styles header for each fact in facts page */
+.f-subtitle{
+  font-family:"Lora";
+  font-size: 35px;
+  text-align: center;
+  color: #EBB7B6;
+}
+
+/* style of gif in career page */
 video {
   display: block;
   margin: 0 auto;
@@ -90,6 +107,7 @@ video {
   height:450px;
 }
 
+/* styles description of facts page */
 .para-main{
   font-family: "Lora";
   font-size: 20px;
@@ -101,37 +119,7 @@ video {
   margin-left:300px;
 }
 
-.f-subtitle{
-  font-family:"Lora";
-  font-size: 35px;
-  text-align: center;
-  color: #EBB7B6;
-}
-
-.column {
-  float: right;
-  padding-right: 150px;
-}
-
-.row::after {
-  content: "";
-  clear: both;
-  display: table;
-}
-
-.box2{
-  align-items: center;
-  background-color:#C79252;
-  color: white;
-  display: flex;
-  justify-content: center;
-  height: 400px;
-  position: relative;
-  width: 1400px;
-  opacity:0.9;
-  margin-left:50px;
-}
-
+/* styles description for career page */
 .para2{
   font-family: "Lora";
   font-size: 20px;
@@ -144,8 +132,36 @@ video {
   margin-right:50px;
 }
 
+/* styles the images in facts */
+.column {
+  float: right;
+  padding-right: 150px;
+}
+
+/* styles the images in facts */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+/* styles images for career & life page */
 .center{
   text-align:center;
+}
+
+/* box2-7 styles the paragraphs in career, life & facts */
+.box2{
+  align-items: center;
+  background-color:#C79252;
+  color: white;
+  display: flex;
+  justify-content: center;
+  height: 400px;
+  position: relative;
+  width: 1400px;
+  opacity:0.9;
+  margin-left:50px;
 }
 
 .box3{
@@ -213,6 +229,7 @@ video {
   margin-left:50px;
 }
 
+/* styles header of career section in career page */
 .career-movie{
   font-size: 40px;
   font-family: "Lora";
@@ -221,6 +238,7 @@ video {
   text-align: center;
 }
 
+/* styles career section description in career page */
 .para3{
   font-family: "Lora";
   font-size: 20px;
