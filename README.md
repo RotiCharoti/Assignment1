@@ -26,14 +26,15 @@ This short biography should be able to provide sufficient information for reader
 
 
  # Credits 
-
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 _OVERVIEW PAGE_
-
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 Media:
 - [Picture](https://theartsdesk.com/sites/default/files/mastimages/1_Marilyn_in_White_1954_portrait.jpg)
- 
+
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
  _CAREER PAGE_
- 
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
  Information:
  - [Marilyn Monroe's Journey to an Iconic Actress](https://www.liveabout.com/marilyn-monroe-1779827)
 
@@ -47,8 +48,9 @@ Media:
 - [Slideshow Picture 5: The Shocking Miss Pilgrim](https://pics.filmaffinity.com/The_Shocking_Miss_Pilgrim-326200593-large.jpg)
 - [Slideshow Picture 6: Ladies of the Chorus](https://m.media-amazon.com/images/M/MV5BODllZjY4MDUtOGJjNi00MWU4LWFjNjUtZDE5ZjNhNGRlYWI0XkEyXkFqcGdeQXVyMDUyOTUyNQ@@._V1_FMjpg_UX1000_.jpg)
 
-
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 _LIFE PAGE_
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 Information:
 - [Marilyn Monroe's Early to Late Life](https://www.liveabout.com/marilyn-monroe-1779827)
 
@@ -57,8 +59,9 @@ Media:
 - [Picture 2](https://1.bp.blogspot.com/-QWfI8FPEYIw/WDQZO6IRJAI/AAAAAAACdS0/aKsI-RdAZuQfq52ya-RfrPaguoD-bpEuwCLcB/s1600/marilyn-monroes-as-a-child-20.jpg)
 - [Picture 3](https://th.bing.com/th/id/R.7ae3df0a02ba42492cec713937dd16e5?rik=UMIW7Z0xSavmJw&riu=http%3a%2f%2fimages5.fanpop.com%2fimage%2fphotos%2f30500000%2fMarilyn-Monroe-marilyn-monroe-30518792-615-409.jpg&ehk=zt13OTrRw5wcjcLbmGtiGnzvFeEP5r4ABHK%2fF77WyhQ%3d&risl=&pid=ImgRaw&r=0)
 
-
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 _FACTS PAGE_
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 Information:
 - [Fact 1](https://books.google.com.sg/books?id=rHRGly8jLIYC&pg=PT70&lpg=PT70&dq=marilyn+monroe+jean+adair&source=bl&ots=BCNa4qnXJ6&sig=ACfU3U2IVEFppxrMYOsIiYui74_Ryi95SA&hl=en&sa=X&redir_esc=y#v=onepage&q=marilyn%20monroe%20jean%20adair&f=false)
 - [Facr 2](https://books.google.com.sg/books?id=r2W9SGUyRmgC&pg=PA324&lpg=PA324&dq=MARILYN+MONROE+%22DO+YOU+WANT+TO+SEE+ME+BE+HER%3F%22&source=bl&ots=QzgrcPn4cx&sig=ruduJReKZzdloJjkhaqQMlPvVPM&hl=en&sa=X&redir_esc=y#v=onepage&q=MARILYN%20MONROE%20%22DO%20YOU%20WANT%20TO%20SEE%20ME%20BE%20HER%3F%22&f=false)
