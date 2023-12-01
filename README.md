@@ -28,16 +28,18 @@ This short biography should be able to provide sufficient information for reader
  # Credits 
 
 _OVERVIEW PAGE_
+
 Media:
 - [Picture](https://theartsdesk.com/sites/default/files/mastimages/1_Marilyn_in_White_1954_portrait.jpg)
  
  _CAREER PAGE_
+ 
  Information:
  - [Marilyn Monroe's Journey to an Iconic Actress](https://www.liveabout.com/marilyn-monroe-1779827)
 
 Media:
 - [Picture 1](https://hips.hearstapps.com/prima.cdnds.net/assets/15/48/980x980/square-1448539549-marilyn-monroe.jpg?resize=980:*)
-- [Picture 2](https://images.bonanzastatic.com/afu/images/248f/50a5/833a_9880493658/Q_262_.jpg]
+- [Picture 2](https://images.bonanzastatic.com/afu/images/248f/50a5/833a_9880493658/Q_262_.jpg)
 - [Slideshow Picture 1: Seven Year Itch](https://i.ebayimg.com/00/s/NzUwWDc1MA==/z/FrQAAOSwnNBXWDe2/$_10.JPG?set_id=880000500F)
 - [Slideshow Picture 2: Some Like It Hot](https://i.pinimg.com/originals/9e/de/73/9ede7373ae7da8ae3398747ca7c19c03.jpg)
 - [Slideshow Picture 3: Bus Stop](https://hakes.com/Image/MediumRes/258266/1/image.jpg)
